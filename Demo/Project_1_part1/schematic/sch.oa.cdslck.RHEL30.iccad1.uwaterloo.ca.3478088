@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      m35wang
+HostName                       iccad1.uwaterloo.ca
+ProcessIdentifier              3478088
+ProcessCreationTime_UTC        1794087841
+ProcessCreationTime_Readable   Sat Nov  7 16:44:01 2026 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/m35wang/MTE421/Demo/Project_1_part1/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sat Nov  7 16:45:00 2026 EST
